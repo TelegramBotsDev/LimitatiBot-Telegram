@@ -10,6 +10,40 @@ https://api.telegram.org/botAPI/setWebhook?url=https://sitoweb.tk/to/path/index.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Licence MIT (Massachusetts Institute of Technology)
 
 Copyright (c) 2019 VirtualArtz
